@@ -1,6 +1,6 @@
 ﻿Il s'agit d'un vérificateur de transistor bi-jonction réalisé avec un PIC10F202-I/P
 
-La polirité et l'état du transistor est indiqué par 2 LEDs
+La polarité et l'état du transistor est indiqué par 2 LEDs
 
 Lorsque la LED verte clignote il 'sagit d'un NPN
 Lorsque la LED rouge clignote il s'agit d'un PNP
