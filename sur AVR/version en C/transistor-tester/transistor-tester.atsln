@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "transistor-tester", "transistor-tester\transistor-tester.cproj", "{755A7492-AAE0-44A0-84F9-E4E287C2DFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755A7492-AAE0-44A0-84F9-E4E287C2DFD4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{755A7492-AAE0-44A0-84F9-E4E287C2DFD4}.Debug|AVR.Build.0 = Debug|AVR
+		{755A7492-AAE0-44A0-84F9-E4E287C2DFD4}.Release|AVR.ActiveCfg = Release|AVR
+		{755A7492-AAE0-44A0-84F9-E4E287C2DFD4}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
